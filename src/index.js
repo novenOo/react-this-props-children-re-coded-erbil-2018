@@ -1,4 +1,5 @@
 // Code Goes Here
+<<<<<<< HEAD
 import React from 'react';
 class Panel extends React.Component {
     render() {
@@ -28,3 +29,5 @@ class MovieBrowser extends React.Component {
 }
 
 export default Panel;
+=======
+>>>>>>> b13f427644967207d46cfef9096ace67336c718e
